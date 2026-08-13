@@ -2216,6 +2216,7 @@
                         ],
                         "expanded": false
                       },
+                      "zh/self-host/use-dify/build/skills",
                       {
                         "group": "基础应用",
                         "pages": [
@@ -3605,6 +3606,7 @@
                         ],
                         "expanded": false
                       },
+                      "ja/self-host/use-dify/build/skills",
                       {
                         "group": "基本アプリ",
                         "pages": [
